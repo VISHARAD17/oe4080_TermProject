@@ -10,4 +10,4 @@ How to run :
  - Run the 'WAT.mlapp' and upload the csv data to see the results
 
 Pic of the matlap app :
-![matlab-app-overview](screenshot (178).png)
+![matlab-app-overview](Screenshot (178).png)
